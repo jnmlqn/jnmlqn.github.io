@@ -30,8 +30,8 @@ $(function() {
 		for (var i = 13; i >= 1; i--) {
 			imgs += `
 				<div class="col-md-3 mb-2">
-					<a href="./imgs/projects/fosterfoods${i}.jpg" target="_blank">
-						<img src="./imgs/projects/fosterfoods${i}.jpg" class="border border-dark pointer" width="100%">
+					<a href="./imgs/mobilefosterfoods${i}.jpg" target="_blank">
+						<img src="./imgs/mobilefosterfoods${i}.jpg" class="border border-dark pointer" width="100%">
 					</a>
 				</div>
 			`
@@ -78,8 +78,8 @@ $(function() {
 		for (var i = 4; i >= 1; i--) {
 			imgs += `
 				<div class="col-md-3 mb-2">
-					<a href="./imgs/projects/surelog${i}.jpg" target="_blank">
-						<img src="./imgs/projects/surelog${i}.jpg" class="border border-dark pointer" width="100%">
+					<a href="./imgs/mobilesurelog${i}.jpg" target="_blank">
+						<img src="./imgs/mobilesurelog${i}.jpg" class="border border-dark pointer" width="100%">
 					</a>
 				</div>
 			`
