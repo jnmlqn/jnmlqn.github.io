@@ -44,17 +44,6 @@ input[type=number]:focus,
 ::-webkit-scrollbar-thumb:hover {
     background: #232324; 
 }
-.ui-autocomplete-loading {
-	background:url('/img/loader.gif') no-repeat right center;
-	background-size: 25px 25px;
-}
-.ui-autocomplete {
-	max-height: 200px;
-	overflow-y: auto;
-	/* prevent horizontal scrollbar */
-	overflow-x: hidden;
-	text-align: left !important;
-}
 .table-td-top td {
 	vertical-align: top !important;
 }
@@ -127,7 +116,7 @@ ul.pagination {
 	color: #dbdbdb !important;
 }
 .tagline-div {
-	background-image: url(../imgs/bg.jpg);
+	background-image: url(../imgs/bg.png);
 	background-repeat: no-repeat;
 	background-size: cover;
 	padding: 15%;
